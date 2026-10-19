@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for taking a look at this project. All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. It's a small script, so there's no heavy process.
+Thanks for taking a look at this project. All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## Found a bug?
 
