@@ -30,8 +30,8 @@ Total Amount    = Principal + Simple Interest
 ## Usage
 
 ```bash
-git clone https://github.com/amishi71/simple-interest-calculator.git
-cd simple-interest-calculator
+git clone https://github.com/amishi71/github-final-project.git
+cd github-final-project
 chmod +x simple-interest.sh
 ./simple-interest.sh
 ```
@@ -54,7 +54,7 @@ Total amount    : 11000.00
 ## Project Structure
 
 ```
-simple-interest-calculator/
+github-final-project/
 ├── README.md
 ├── LICENSE
 ├── CODE_OF_CONDUCT.md
